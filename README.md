@@ -1,1 +1,2 @@
-# model.tflite模型的导入在TFLClassify仓库
+# model.tflite模型的导入在ruanjianxiangmushiyan4_TFLClassify仓库
+# 模型的训练在Untitle0.ipyb文件里
